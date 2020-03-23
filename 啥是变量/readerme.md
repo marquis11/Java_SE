@@ -15,15 +15,17 @@ Java中有八种基本类型，都是Java语言预先定义好的，并且是关
 浮点型 （2种）
 布尔型 （1种）
 
-![基本数据类型](https://i.ibb.co/ZBFnt2s/image.png)
-
 <center>图1 基本数据类型</center>
 
+![基本数据类型](https://i.ibb.co/ZBFnt2s/image.png)
 
 
 
+
+
+<center>图2 基本数据类型的取值范围</center>
 
 ![image](https://i.ibb.co/KyC0dhP/image.gif)
 
-<center>图2 基本数据类型的取值范围</center>
+
 
