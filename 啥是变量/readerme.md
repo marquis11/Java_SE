@@ -17,9 +17,13 @@ Java中有八种基本类型，都是Java语言预先定义好的，并且是关
 
 ![基本数据类型](https://i.ibb.co/ZBFnt2s/image.png)
 
-<center>基本数据类型</center>
+<center>图1 基本数据类型</center>
+
+
+
+
 
 ![image](https://i.ibb.co/KyC0dhP/image.gif)
 
-<center>基本数据类型的取值范围</center>
+<center>图2 基本数据类型的取值范围</center>
 
